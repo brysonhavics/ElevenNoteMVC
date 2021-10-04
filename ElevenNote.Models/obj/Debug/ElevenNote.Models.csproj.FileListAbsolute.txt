@@ -1,0 +1,5 @@
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb

@@ -1,0 +1,15 @@
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\ElevenNote.Data.pdb
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\EntityFramework.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\EntityFramework.xml
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\bryso\source\repos\ElevenNoteMVC\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
